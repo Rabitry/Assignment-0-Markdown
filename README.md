@@ -1,2 +1,2 @@
 # Assignment 0:Markdown
-# You have towritq markdown
+# You have to write markdown
